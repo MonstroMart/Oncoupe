@@ -6,7 +6,23 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Production Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0308fc3-bac6-492c-855a-3ad6d29bcfa8" name="Default" comment="" />
+    <list default="true" id="a0308fc3-bac6-492c-855a-3ad6d29bcfa8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/AbstractLayout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/DimensionInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/GridConstraints.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/HorizontalInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/LayoutState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/Spacer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/SupportCode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/Util.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/com/intellij/uiDesigner/core/VerticalInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/net/franksuselessworld/oncoupe/Oncoupe.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/res/strings.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oncoupe/res/strings_fr.properties" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -148,24 +164,6 @@
               <item name="Oncoupe" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
               <item name="jvm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Oncoupe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Oncoupe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Oncoupe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Oncoupe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Oncoupe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Oncoupe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Oncoupe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Oncoupe" type="b2602c69:ProjectViewProjectNode" />
