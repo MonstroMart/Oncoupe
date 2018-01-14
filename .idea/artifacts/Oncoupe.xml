@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="Oncoupe">
-    <output-path>$PROJECT_DIR$/bin/jvm/</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/Oncoupe/</output-path>
     <root id="archive" name="Oncoupe.jar">
       <element id="module-output" name="Oncoupe" />
     </root>

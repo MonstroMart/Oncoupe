@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\franc\Documents\GitHub\Oncoupe\bin\jvm\Oncoupe.jar</jar>
+  <jar>C:\Users\franc\Documents\GitHub\Oncoupe\out\artifacts\Oncoupe\Oncoupe.jar</jar>
   <outfile>C:\Users\franc\Documents\GitHub\Oncoupe\bin\win\x64\Oncoupe.exe</outfile>
   <errTitle>Oncoupe - Error!</errTitle>
   <cmdLine></cmdLine>
