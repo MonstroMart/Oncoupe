@@ -9,6 +9,9 @@ bin/
 # BlueJ files
 *.ctxt
 
+# README file
+README.pdf
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
