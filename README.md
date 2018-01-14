@@ -3,13 +3,14 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Oncoupe](#oncoupe)
-- [P.S.](#ps)
-	- [This is a test to see how Git works so this is not a functional application](#this-is-a-test-to-see-how-git-works-so-this-is-not-a-functional-application)
-		- [Test markdown-toc](#test-markdown-toc)
+	- [Description](#description)
+	- [Usage](#usage)
+	- [License](#license)
+	- [Version history](#version-history)
 
 <!-- /TOC -->
 
-***
+## Description
 
 Oncoupe (Wecut) is a non-destructive video editor having the ability to make simple changes to video files without transcoding them.
 
@@ -24,8 +25,18 @@ Here's a list of the features offered by Oncoupe :
 - muxing
 - demuxing
 
-# P.S.
+## Usage
 
-## This is a test to see how Git works so this is not a functional application
+This is a test to see how GitHub works so this is not a functional application.
 
-### Test markdown-toc
+## License
+
+Oncoupe is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Oncoupe is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Oncoupe. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
+
+## Version history
+
+For a detailed list of releases and changes see the [releases section](https://github.com/MonstroMart/Oncoupe/releases).
