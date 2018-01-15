@@ -46,6 +46,11 @@ import javax.swing.*;
 public class Oncoupe {
     private JButton openBtn;
     private JPanel mainWindow;
+    private JButton playBtn;
+    private JButton stopBtn;
+    private JButton fbBtn;
+    private JButton ffBtn;
+    private JPanel playerWindow;
 
     public Oncoupe() {
     }
